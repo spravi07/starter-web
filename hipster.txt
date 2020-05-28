@@ -42,3 +42,4 @@ vocabulary["VALLEY"] = "4"
 vocabulary["FOREST"] = "5"
 
 vocabulary.close()
+vocabulary.end()
