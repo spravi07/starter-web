@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is training for git and github
+
 ## Purpose
 
 ## Deployment
