@@ -43,3 +43,6 @@ vocabulary["FOREST"] = "5"
 
 vocabulary.close()
 vocabulary.end()
+
+Ilove u
+we too love u
